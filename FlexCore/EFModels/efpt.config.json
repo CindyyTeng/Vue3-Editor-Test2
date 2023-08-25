@@ -1,0 +1,283 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "AppDbContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "EFModels",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[Activities]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ActivityCategories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ActivityImg]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ActivityStatuses]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AlternateAddresses]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[BlackLists]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Branches]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CartItems]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ColorCategories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CouponCategories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Coupons]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CouponSendings]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Customized_materials]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CustomizedOrders]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CustomizedShoesPo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Departments]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Discounts]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[JobTitles]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[logistics_companies]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MemberPoints]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Members]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MembershipLevelPrivileges]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MembershipLevels]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OneToOneReservations]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[order_statuses]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[orderItems]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[orders]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[pay_methods]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[pay_statuses]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PointHistories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PointManage]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PointTradeIn]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Privileges]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ProductCategories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ProductComment]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ProductGroups]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ProductImgs]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Products]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ProductSubCategories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ProjectTagItems]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ProjectTags]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ReservationImg]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ReservationStatuses]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ReturnResons]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Returns]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SalesCategories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ShoesCategories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ShoesChooses]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ShoesColorCategories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ShoesGroups]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ShoesOrders]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ShoesPictures]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ShoesSizes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ShoppingCarts]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SizeCategories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SpeakerFields]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Speakers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[StaffPermissions]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Staffs]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Suppliers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Type]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "lun.Flex.dbo",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
